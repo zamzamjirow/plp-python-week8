@@ -1,0 +1,48 @@
+PERSONAL MINI-TOOLKIT
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+This tool allows users to perform addition, subtraction, multiplication and division.
+
+Tool 2: To-Do List
+This tool allows users to add tasks, view their tasks and remove completed tasks.
+
+Tool 3: Number Checker
+This tool allows users to enter a number and check whether it is positive, negative or zero.
+
+2. MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice:
+
+3. PYTHON CONCEPTS
+
+Simple Calculator:
+- Variables
+- User input
+- Conditionals
+- F-strings
+
+To-Do List:
+- Lists
+- Loops
+- Conditionals
+- User input
+
+Number Checker:
+- Variables
+- User input
+- If, elif and else
+- F-strings
+
+Main Menu:
+- While loop
+- If, elif and else
+- User input
